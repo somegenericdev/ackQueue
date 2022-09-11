@@ -1,5 +1,6 @@
 ## Installation
 1. Download ack and dmenu
+
 `sudo apt install ack`
 
 `sudo apt install dmenu`
