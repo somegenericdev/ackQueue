@@ -14,7 +14,7 @@
 
 `chmod +x /usr/local/bin/ackQueue`
 
-##Instructions
+## Instructions
 You can launch the script like so
 
 `ackQueue query1 query2 query3`
