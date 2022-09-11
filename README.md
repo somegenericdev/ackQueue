@@ -12,7 +12,7 @@
 
 4. Make it executable
 
-`chmod +x /usr/local/bin/ackQueue`
+`sudo chmod +x /usr/local/bin/ackQueue`
 
 ## Instructions
 You can launch the script like so
