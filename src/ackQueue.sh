@@ -53,8 +53,7 @@ while true; do
             currentIdx=$(expr $currentIdx + 1)
         fi
         clear
-        ackSecondPartCmd='name=\"'"${argsArray[$currentIdx]}"'\"'
-        #ackSecondPartCmd="${argsArray[$currentIdx]}"
+        ackSecondPartCmd="${argsArray[$currentIdx]}"
         ackCmd="$ackBaseCmd $ackSecondPartCmd"
         echo $ackCmd
         eval "$ackCmd"
