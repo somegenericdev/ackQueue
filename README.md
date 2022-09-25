@@ -1,5 +1,5 @@
 ## Installation
-1. Download ack and dmenu
+1. Install ack and dmenu
 
 `sudo apt install ack`
 
@@ -23,4 +23,4 @@ By default, ackQueue will launch "ack -A 4". If you want to pass some other flag
 
 `ackQueue -a "ack -A 9 -B 3" query1 query2 query3`
 
-To move back and forth thourgh your queue, you can use the B and N keys or, alternatively, use dmenu by pressing M
+To move back and forth through your queue, you can use the B and N keys or, alternatively, use dmenu by pressing M
